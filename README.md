@@ -1,0 +1,2 @@
+# Small_Netflix_Series_window_from_scratch
+Created with CodeSandbox
